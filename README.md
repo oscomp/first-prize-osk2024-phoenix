@@ -1,6 +1,9 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/oscomp/first-prize-osk2024-phoenix)
+
 ![哈工大深圳](./docs/assets/hitsz-logo.jpg)
 
 # Phoenix
+
 
 ## 项目描述
 
